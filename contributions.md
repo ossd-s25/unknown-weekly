@@ -16,7 +16,8 @@ Replace the first row with your own contribution.
 
 -->
 
-| Date # | Contribution (Link)                                              | Type    | Description                           |
-| ------ | :--------------------------------------------------------------- | :------ | :------------------------------------ |
-| Feb 25 | [ghostty#5977](https://github.com/ghostty-org/ghostty/pull/5977) | Bug fix | Fixed a bug in keybind configuration. |
-| Feb 25 | [ghostty#5995](https://github.com/ghostty-org/ghostty/pull/5995) | Bug fix | Fixed a bug with `copy-on-select`.    |
+| Date # | Contribution (Link)                                              | Type    | Description                                                   |
+| ------ | :--------------------------------------------------------------- | :------ | :------------------------------------------------------------ |
+| Feb 25 | [ghostty#5977](https://github.com/ghostty-org/ghostty/pull/5977) | Bug fix | Fixed a bug in keybind configuration.                         |
+| Feb 25 | [ghostty#5995](https://github.com/ghostty-org/ghostty/pull/5995) | Bug fix | Fixed a bug with `copy-on-select`.                            |
+| Apr 27 | [nitro#3337](https://github.com/nitrojs/nitro/issues/3337)       | Issue   | Opened an issue regarding configuring Nitro's root directory. |
